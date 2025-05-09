@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Vicky from "./components/vicky";
+import Vicky from "./components/Vicky";
 
 function App() {
   return (
